@@ -1,0 +1,207 @@
+body{
+  background-color: #cbc7c7 !important;
+  font-size: 14px !important;
+}
+.icon{
+  height: 18vh;
+ 
+   margin-left: 2%;
+  
+    margin-bottom: 15%;
+    border-radius: 20px;
+    background-color:snow   ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.store-image{
+  background-color:gray;
+  width: 16vw;  
+ 
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items : center;
+  height: 17vh;
+  margin-left: 2%;
+  color: white;
+}
+
+.store{
+  font-size: larger;
+  margin: 2% 0 0 3%;
+}
+
+.ads1{
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+.ads{
+ 
+  width: 22vw;
+  height:25vh;
+  margin-left: 2%;
+  padding-left: 2%;
+  margin-top: 2%;
+  border-radius:20px ;
+  display: flex;
+  flex-direction: column;
+  background-color:white;
+}
+.image-off{
+  width: 0px;
+}
+.first{
+ 
+  margin:2% 0 0 0%;
+  border-radius:20px;
+
+}
+
+#signup{
+  border: 2px soild red;
+  height: 80vh;
+  display: flex;
+}
+#details{
+ 
+  width: 63vw;
+  height: 80vh;
+  
+}
+#sign{
+  width: 35vw;
+margin: 1%  2%;
+  background-color: white;
+  border-radius: 20px;
+  height: 80vh;    
+}
+.detail-block{
+  display: flex;
+
+  width: 30vw;
+  margin: 2% 0 0 2%;
+}
+.cm{
+  display: flex;
+  margin-top: 2%;
+
+}
+
+.box-logo{
+  border: 2px solid black;
+  width: 13vw;
+  height: 3vw;
+  margin-top: 2%;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#login-box{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 5%;
+}
+
+
+.input{
+ background-color:whitesmoke;
+  width: 20vw;
+  border-radius: 5px;
+}
+.form{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-sign{
+  margin-top: 2%;
+  width: 20vw;
+  height: 5vh;
+  border-radius: 10px;
+  background-color: rgb(1, 1, 44);
+  color: white;
+}
+
+nav{
+  background-color: black;
+  height: 10vh; 
+
+}
+.list{
+  display: flex;
+ 
+  
+}
+nav ul li{
+  margin-top: 1%;
+}
+nav ul li select{
+  margin-top: 4%;
+}
+.nav-btn{
+  margin-left: 10%;
+  margin-top: 1%;
+  background-color: transparent;
+  color: white;
+  margin-right: 1%;
+}
+.nav-btn2{
+margin-top: 1%;
+width: 8%;
+border-radius: 20px;
+background-color: orangered;
+color: white;
+margin-right: 1%;
+}
+.search-bar{
+  width: 30vw;
+  margin:1% 0 0 10%;
+  border-radius: 20px;
+  height:5vh;
+}
+
+nav ul li select{
+  background-color: transparent;
+  border: 2px solid black ;
+  text-decoration: none;
+  color: white;
+}
+.Explore{
+  width: 5vw;
+  margin: 10% 0 0 80%;
+}
+nav ul li select option{
+  color: black;
+}
+.offer{
+  width: 5vw;
+  margin: 10% 0 0 50%;
+}
+
+.stores{
+  width: 12vw;
+  margin: 10% 0 0 15%;
+  border-radius: 20px;
+  background-color: rgb(1, 1, 37);
+  color: white;
+}
+
+.top{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.top-ads{
+  height: 50vh;
+
+}
